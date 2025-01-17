@@ -1,0 +1,777 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 10px;
+}
+
+
+/* NAVIGATION STARTS HERE */
+
+.master{
+    background-color: #3B5D50;
+}
+
+#mynavigation{
+    background:none;
+    border: none;
+    /* background-color: #3B5D50; */
+    /* border-bottom: 1px solid #fff; */
+}
+
+#mynavigation .navbar-brand{
+    color: #fff;
+    font-size: 4rem;
+    padding: 10px 0px;
+    /* margin-top: 20px; */
+}
+
+#mynavigation a{
+    color: gray;
+    margin-top: 20px;
+    font-size: 1.7rem;
+    /* padding: 15px; */
+
+
+}
+
+
+#mynavigation a .glyphicon{
+    color: #fff;
+    /* margin-left: 9px; */
+    font-size: 2rem;
+}
+
+
+#mynavigation a:hover{
+    color: #fff;
+}
+
+/* NAVIGATION ENDS HERE */
+
+
+/* FIRST SECTION STARTS HERE */
+.first {
+    background-color: #3b5d50;
+    padding: 90px 0px;
+    
+}
+
+.first-left h2{
+    font-size: 6rem;
+    font-weight: 600;
+    color: #fff;
+    /* margin-right: 90px; */
+}
+
+.first-left p{
+    font-size: 1.5rem;
+    color: #ffffff80;
+}
+
+.btn1{
+    height: 50px;
+    width: 140px;
+    border: none;
+    border-radius: 40px;
+    font-size: 1.5rem;
+    font-weight: 600;
+    background-color: #f9bf29;
+    color: rgb(105, 94, 94);
+}
+
+
+.btn2{
+    height: 50px;
+    width: 140px;
+    border: 2px solid gray;
+    border-radius: 40px;
+    background-color: #3B5D50;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #fff;
+}
+
+
+.btn1:hover{
+    background-color: #d29c15;
+}
+
+
+.btn2:hover{
+    border: 2px solid #fff;
+}
+
+.first-right img{
+    width: 100%;
+}
+
+/* FIRST SECTION ENDS HERE */
+
+/* SECOND SECTION STARTS HERE */
+
+.second{
+    padding: 90px 0px;
+    background-color: rgb(240, 230, 230);
+}
+
+.sec-left h2{
+    font-size: 30px;
+    font-weight: 500;
+    color: #000;
+}
+
+
+.sec-left p{
+    font-size: 15px;
+}
+
+
+.sec-right img{
+    width: 100%;
+    /* margin-top: 5px; */
+    
+}
+
+.sec-right h3{
+    text-align: center;
+    font-size: 1.5rem;
+    color: #000;
+}
+
+
+.btn3{
+    height: 50px;
+    width: 140px;
+    border: none;
+    border-radius: 40px;
+    background-color: #2f2f2f;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #fff;
+}
+
+.btn3:hover{
+    background-color: #000;
+}
+
+/* SECOND SECTION STARTS HERE */
+
+/* THIRD SECTION STARTS HERE */
+
+.third{
+    /* padding: 50px 0px; */
+    background-color: rgb(240, 230, 230);
+}
+
+.thi-right{
+    padding: 60px 0px;
+}
+
+.thi-one h2{
+    color: #000;
+    font-size: 4rem;
+}
+
+.thi-sec{
+    padding: 40px 0px;
+}
+
+.thi-sec .glyphicon{
+    font-size: 30px;
+    padding: 20px 0px;
+}
+
+.thi-sec p{
+    color: #797474;
+}
+
+
+
+.thi-left img{
+    width: 100%;
+}
+
+.thi-img img {
+    width: 100%;
+    height: 85vh;
+    position: relative;
+    top: -170px;
+    left: 110px;
+    border-radius: 40px 40px 40px 40px;
+
+}
+
+/* THIRD SECTION ENDS HERE */
+
+/* FOURTH SECTION STARTS HERE */
+
+.four{
+    /* padding-top: px; */
+    background-color: rgb(240, 230, 230);
+}
+
+.four-img img{
+    width: 100%;
+
+}
+
+
+.four-img1 img{
+    width: 100%;
+    height: 70vh;
+    position: relative;
+    right: 130px;
+    margin-top: 50px;
+    border-radius:20px 20px 20px 20px;
+    
+
+}
+
+.four-img2 img{
+    width: 100%;
+    position: relative;
+    right: 60px;
+    margin-top: 50px;
+    border-radius: 10px 10px 10px 10px;
+
+}
+
+.four-img4 img{
+    width: 100%;
+    height: 70vh;
+    position: relative;
+    left: 250px;
+    top: -290px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.four-left h2{
+    color: #000;
+    font-size: 3.5rem;
+}
+
+
+.four-left p{
+    color: #797474;
+    padding: 5px;
+    font-weight: 400;
+}
+
+/* FOURTH SECTION ENDS HERE */
+
+/* FIFTH SECTION STARTS HERE */
+
+.fifth{
+    background-color: rgb(240, 230, 230);
+}
+
+.five-img img{
+    width: 100%;
+}
+
+.five-img h4{
+    color: #000;
+}
+.five-p p{
+    font-size: 1.3rem;
+}
+
+.five-img p{
+    font-size: 1.3rem;
+}
+
+/* FIFTH SECTION END SHERE */
+
+/* SIXTH SECTION STARTS HERE */
+
+.six{
+    padding: 90px 0px;
+    text-align: center;
+    background-color: rgb(240, 230, 230);
+
+}
+/* 
+.six h1{
+    padding-top: 90px;
+} */
+
+.carousel{
+    width: 100%;
+    margin: 0 auto;
+    /* margin-top: 10px; */
+    text-align: center;
+}
+
+
+
+.carousel-indicators li.active{
+    border:2px solid #000;
+    background: gray;
+    /* margin-top: 10px; */
+}
+
+.carousel-indicators li{
+    background-color: black;
+    color: #2f2f2f;
+}
+
+
+.carousel-control.right,     .carousel-control.left{
+    background: none;
+    color:cadetblue;
+}
+
+.carousel .item p{
+    font-size: 2rem;
+    text-align: center;
+    font-size: 2rem;
+    margin: 72px;
+}
+
+.carousel-inner img{
+    border-radius: 100%;
+    width: 10%;
+    margin-left: 520px;
+    /* margin-top: 20px; */
+}
+
+/* SIXTH SECTION ENDS HERE */
+
+/* SEVENTH SECTION STARTS HERE */
+
+.seven{
+    padding-top: 50px;
+    padding-bottom: 190px;
+    background-color: rgb(240, 230, 230);
+    color: #000;
+
+}
+
+.seven-img img{
+    width: 100%;
+    margin: 40px 0px;
+    /* padding: 40px 0px; */
+    border-radius: 10px 10px 10px 10px;
+}
+
+.seven h5{
+    font-size: 1.5rem;
+    /* text-align: center; */
+    text-decoration: underline;
+    /* border-bottom: 2px solid #000; */
+}
+
+.seven-img p{
+    color: #2f2f2f;
+}
+
+
+/* SEVENTH SECTION ENDS HERE */
+
+/* EIGHT SECTION STARTS HERE */
+
+.eight-top{
+    padding: 70px 0px;
+}
+.form{
+    padding-top: 15px;
+
+}
+
+.eight-top .glyphicon{
+    font-size: 2rem;
+    color: #000;
+}
+
+.eight-img img{
+    width: 100%;
+    position: relative;
+    top: -100px;
+
+}
+
+.eight-two{
+    border: 2px solid #000;
+    padding: 8px 19px 8px 19px;
+    font-size: 2rem;
+    color: #fff;
+    border-radius: 5px 5px 5px 5px;
+    background-color:#3B5D50;
+    margin-top: 10px;
+}
+
+/* EIGHT SECTION ENDS HERE */
+
+/* NINE SECTION STARTS  HERE */
+
+.nine-top h2{
+    color: #3B5D50;
+    font-size: 4rem;
+
+}
+
+.nine-top p{
+    padding:20px 0px ;
+}
+
+.nine-last{
+    margin-top: 80px;
+    
+}
+
+.fa {
+    font-size: 2rem;
+    color: #000;
+    background-color:gray;
+    padding: 10px;
+    border-radius: 100%;
+}
+
+ul li{
+    list-style: none;
+    padding: 5px;
+    /* text-decoration: none; */
+}
+
+ul li a{
+    color: #000;
+    text-decoration: none;
+}
+
+ul li a:hover{
+    color: #797474;
+}
+
+/* NINE SECTION ENDS HERE */
+
+
+/* LAST SECTION STARTS HERE */
+
+.last{
+    color: #797474;
+}
+
+/* LAST SECTION ENDS HERE */
+
+
+
+@media only screen and (max-width:1400px){
+
+    .thi-img img{
+        height: 50vh;
+        position: relative;
+        left: 60px;
+    }
+
+
+    .four-img1 img{
+        height: 50vh;
+    }
+
+    .four-img2 img{
+        height: 20vh;
+    }
+    .four-img4 img{
+        height: 50vh;
+    }
+}
+
+@media only screen and (max-width:1200px){
+
+    .thi-img img{
+        height: 60vh;
+        position: relative;
+        top: -100px;
+        left: 60px;
+
+    }
+
+
+    .four-img1 img{
+        height: 50vh;
+    }
+
+    
+    .four-img2 img{
+        height: 20vh;
+    }
+
+
+
+
+    
+    .four-img4 img{
+        height: 50vh;
+        top: -250px;
+    }
+
+
+}
+
+
+
+
+@media only screen and (max-width:992px){
+
+    .sec-right h3{
+        font-size: 2rem;
+
+    }
+
+    .four-text p{
+        font-size: 1.4rem;
+        font-weight: 500;
+    }
+
+    .thi-img img{
+        height: 90vh;
+        width: 100%;
+        position: relative;
+        left:50px
+    }
+
+    .four-img1 img{
+        height: 60vh;
+        width: 100%;
+    }
+
+    
+    .four-img2 img{
+        width: 100%;
+        height: 20vh;
+        
+    }
+
+    
+    .four-img4 img{
+        height: 60vh;
+        width: 100%;
+        position: relative;
+        left: 100px;
+        top: -260px;
+    }
+
+    .carousel-inner img{
+        margin-left: 440px;
+    }
+
+}
+
+@media only screen and (max-width:768px){
+
+    .first-left {
+        text-align: center;
+    }
+
+    
+    .first-left h2 {
+        font-size: 7rem;
+    }
+
+    
+    .first-left p {
+        font-size: 2rem;
+    }
+
+    .sec-left h2{
+        font-weight: 600;
+        font-size: 5rem;
+    }
+
+    .sec-right h3{
+        font-weight: 600;
+        font-size: 3.5rem;
+    }
+    
+    .sec-right img{
+        padding-top: 10px;
+    }
+
+    
+    .sec-left p{
+        font-size: 2.5rem;
+    }
+
+    .thi-right{
+        text-align: center;
+    }
+
+    .thi-one h2{
+        font-weight: 600;
+        font-size: 6rem;
+    }
+    
+    .thi-one p{
+        font-size: 2.5rem;
+    }
+
+    .thi-sec .glyphicon{
+        font-size: 7rem;
+
+    }
+    
+    .thi-sec h4{
+        font-size: 4rem;
+
+    }
+    
+    .thi-sec p{
+        font-size: 2.5rem;
+
+    }
+
+
+    .thi-left .no{
+        display: none;
+        /* text-align: center; */
+    }
+
+    .thi-img img{
+        width: 100%;
+        margin-top: 90px;
+        position: relative;
+        left: 0px;
+        /* margin-right: 30px; */
+    }
+
+    .four-img .no{
+        display: none;
+    }
+
+    .four-img1{
+        height: 60vh;
+    }
+
+    .four-img4{
+        height: 40vh;
+        width: 80%;
+        position: relative;
+        left: 0px;
+    }
+
+    .four-left h2{
+        font-size: 5rem;
+        font-weight: 400;
+    }
+
+    
+    .four-left p{
+        font-size: 2rem;
+    }
+
+    .five-p{
+        text-align: center;
+        padding: 10px;
+    }
+
+    .five-p h4{
+        font-size: 4rem;
+    }
+
+    
+    .five-p p{
+        font-size: 2rem;
+    }
+
+    
+    .five-p h5{
+        font-size: 2rem;
+    }
+
+    
+    .five-img{
+        text-align: center;
+        padding: 20px;
+    }
+
+    
+    .five-img h4{
+        font-size: 4rem;
+        margin-top: 10px;
+    }
+
+    
+    .five-img p{
+        font-size: 2rem;
+    }
+
+    
+    .five-img h5{
+        font-size: 3rem;
+    }
+
+    
+    .carousel-inner img{
+        margin-left: 340px;
+    }
+
+    .seven-img h4{
+        font-size: 3rem;
+    }
+
+    
+    .seven-img p{
+        font-size: 2rem;
+    }
+
+    .eight-top .no{
+        display: none;
+    }
+
+    .eight-img img{
+        padding-top: 40px;
+    }
+}
+
+
+@media only screen and (max-width:451px){
+
+    .first-left h2 {
+        font-size: 5rem;
+        font-weight: 600;
+    }
+
+    .first-left p{
+        font-size: 2rem;
+    }
+
+    .carousel-inner p{
+        font-size: 2rem;
+    }
+
+     
+    .carousel-inner img{
+        margin-left: 200px;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
